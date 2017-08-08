@@ -10,6 +10,6 @@
   },
   "publishedDate": "2016-03-15T00:00:00.000+0000",
   "state": "published",
-  "tags": ["node-js", "java-script", "linux", "programming"],
+  "tags": ["node-js", "javaScript", "linux", "programming"],
   "title": "Creating command line tools with Node.js"
 }

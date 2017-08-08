@@ -10,6 +10,6 @@
   },
   "publishedDate": "2011-08-06T00:00:00.000+0000",
   "state": "published",
-  "tags": ["programming", "action-script"],
+  "tags": ["programming", "actionScript"],
   "title": "Simple pathfinding algorithm in ActionScript 3"
 }
